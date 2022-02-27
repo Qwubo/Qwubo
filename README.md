@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qwubo
 - 👀 I’m interested in gaming, music, programming
-- 🌱 I’m currently learning python, ahk maybe other in future
+- 🌱 I’m currently learning unity and C#, python
 - 📫 How to reach me
 Discord:
 Qωebo#4966
