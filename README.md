@@ -6,7 +6,7 @@
 VVelcome to my Github page.
 <b>
 <p>
-  If I do something cool, then I'll upload it there :) 
+  If I do something cool, then I'll upload it here :) 
 </p>
 </b>
 </center>
